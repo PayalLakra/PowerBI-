@@ -10,7 +10,13 @@ The dashboard provides insights into insurance-related data, helping to visualiz
 ## Features
 - Data cleaning and transformation in Power BI  
 - Interactive charts and graphs for better insights  
-- Easy-to-understand visual representation of insurance data  
+- Easy-to-understand visual representation of insurance data
+
+## The dashboard helps visualize:
+- Policy & Claim Analysis – Premium, coverage, and claim amounts
+- Demographics – Gender and age group insights
+- Claim Status – Pending, rejected, and settled claims
+- Policy Type Trends – Premium distribution across different policy types
 
 ## Usage
 1. Download the Excel sheet (`InsuranceData.xlsx`)  
