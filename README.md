@@ -18,4 +18,4 @@ The dashboard provides insights into insurance-related data, helping to visualiz
 3. Explore the interactive visuals and gain insights  
 
 ## Dashboard Preview
-*(<img width="1181" height="659" alt="Screenshot 2025-10-01 180131" src="https://github.com/user-attachments/assets/033650c3-17e9-475f-a8a4-c15578e633c2" />
+<img width="1181" height="659" alt="Screenshot 2025-10-01 180131" src="https://github.com/user-attachments/assets/033650c3-17e9-475f-a8a4-c15578e633c2" />
